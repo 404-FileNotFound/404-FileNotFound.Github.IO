@@ -1,5 +1,5 @@
 ---
-title: first blog
+title: Github showdown
 layout: post
 author: dominic roach
 permalink: /untitled-document/
@@ -9,23 +9,23 @@ published: true
 <table>
   <tr>
     <td>Name</td>
-    <td>My first blog</td>
+    <td>Github showdown</td>
   </tr>
   <tr>
     <td>date</td>
-    <td>7.6.17</td>
+    <td>14.6.17</td>
   </tr>
   <tr>
     <td>What we did in lesson</td>
-    <td>This lesson was mainly spent setting up (or configuring) our blogs. We had to fork a file from github and then we were able customize our blogs, changing the background, the font and colours etc. </td>
+    <td>Some people started taking on the big challenges on repl.it, while i was still trying to figure out why my github was screwing up! After at least 40 minutes of head scratching and hell kicking, mr tansley told me it was the simple mistake of forking the wrong jekyll_now file. I was more than furious</td>
   </tr>
   <tr>
     <td>What went wrong?</td>
-    <td>I had a massive problem that carried over to the beginning of the second lesson. I didn't have a working blog, and even though everything seemed to be perfect, it wouldn’t load. In the next lesson i discovered that it was because i forgot to add a hyphen in my search, thus giving me the wrong file to fork.</td>
+    <td>I forked the wrong jekyll_now file and as a result was st back a couple of days, which severely impeded my progress</td>
   </tr>
   <tr>
     <td>What can i learn from it</td>
-    <td>Check every minute detail, a small hitch can overturn the entire file, and a problem, no matter how small, is still a problem and should be focussed on.</td>
+    <td>Again, munte mistakes, if unattended, can cause major setbacks. Always check and always be careful!</td>
   </tr>
 </table>
 
