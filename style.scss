@@ -23,12 +23,11 @@ body {
     background-attachment: fixed;
 }
 
-.container {
-  margin: 20 auto;
-  max-width: 740px;
-  padding: 20 10px;
-background-colour: $white;
-width: 10px;
+div {
+    width: 300px;
+    border: 25px white;
+    padding: 25px;
+    margin: 25px;
 }
 
 h1, h2, h3, h4, h5, h6 {
